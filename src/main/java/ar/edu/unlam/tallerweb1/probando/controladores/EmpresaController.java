@@ -136,7 +136,7 @@ public class EmpresaController {
 	
 	
 	
-	@RequestMapping(path="/home/listaDeEmpleados", method=RequestMethod.GET)
+	@RequestMapping(path="/listaDeEmpleados", method=RequestMethod.GET)
 	public ModelAndView irAListaDeEmpleados() {
 		
 		ModelMap modelo = new ModelMap();

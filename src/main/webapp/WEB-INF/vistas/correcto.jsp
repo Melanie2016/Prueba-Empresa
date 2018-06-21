@@ -7,7 +7,7 @@
 <title>Vista correcto</title>
 </head>
 <body>
-	<p> El empleado se guardo correctamente, <!-- El empleado es ${empleado.nombre }  --> </p>
+	<p> El empleado se guardo correctamente,</p>
 	
 	
 </body>
